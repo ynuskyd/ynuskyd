@@ -21,6 +21,10 @@ Software Developer from Istanbul
 
 ### Technologies I use ⚡
 
+<p>There is a horizontal rule below this paragraph.</p> 
+<hr>
+<p>This is a horizontal rule above this paragraph.</p> 
+
 <div style="display: flex; justify-content: center;  ">
 <img style="padding-left: 5px" alt="Java" src="https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396" /> 
 <img style="padding-left: 5px" alt="React" src="https://img.shields.io/badge/-React-fff?&logo=React" /> 
