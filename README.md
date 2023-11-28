@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=hello,+there!+ツ;this+is+Yunus+⚡;about+me+🠟&center=true&size=15">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=hello,+there!+ツ;this+is+Yunus+⚡;about+me+↓&center=true&size=15">
   </a>
   
   <p align="justify">As a java based backend developer in Turkey. Driven by curiosity, 
