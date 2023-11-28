@@ -4,7 +4,7 @@
   </a>
   
   <p align="justify">As a java based backend developer in Turkey. Driven by curiosity, 
-    Currently learning GoLang and DevOps tools like k8s, with the aim of leveraging these technologies for innovative solutions.
+    Currently learning GoLang and DevOps tools, with the aim of leveraging these technologies for innovative solutions.
     I stay updated on AI advancements and explore tools to refine my problem-solving skills.
   </p>
   
