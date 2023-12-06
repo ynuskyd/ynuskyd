@@ -9,6 +9,6 @@
   </p>
   
   <p align="center">
-    <a href="mailto:kayadugunyunus@gmail.com">Mail</a> • <a href="https://www.linkedin.com/in/yunuskayadugun/">Linkedin</a> • <a href="https://ynuskyd.vercel.app/">Website</a>
+    <a href="mailto:ynuskyd@gmail.com">Mail</a> • <a href="https://www.linkedin.com/in/ynuskyd/">Linkedin</a> • <a href="https://ynuskyd.xyz/">Website</a>
   </p>
 </div>
