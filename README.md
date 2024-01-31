@@ -4,7 +4,7 @@
   </a>
   
   <p align="justify">Java-based backend developer in Turkey. Driven by curiosity, 
-    Currently learning LLM and DevOps tools, with the aim of leveraging these technologies for innovative solutions.
+    Currently learning Golang and DevOps tools, with the aim of leveraging these technologies for innovative solutions.
     I stay updated on AI advancements and explore tools to refine my problem-solving skills.
   </p>
   
